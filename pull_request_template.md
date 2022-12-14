@@ -1,7 +1,10 @@
 Preview | Asana
 
 ## Extended feature title
-Additional introductory information
+Additional introductory information.
+
+## Featured requirements
+* List the core requirements, copied from Asana
 
 ### Core changes
 * Add core changes here
