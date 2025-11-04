@@ -31,6 +31,7 @@ When QAing, the reviewer should pay close attention to:
 - Any issues when you throttle your internet speed using browser dev tools
 - Whether your update is as robust as possible when JavaScript is turned off
 - Potential security vulnerabilities
+- How does the update work with different languages/currencies/markets?
 - [Remove the non-applicable above notes, and add additional areas of focus specific to this PR]
 
 ### Settings
